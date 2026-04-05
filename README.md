@@ -160,26 +160,6 @@ class LaukikKande:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
- 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=laukik-kande&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laukik-kande&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
- 
-<br/><br/>
- 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laukik-kande&theme=tokyonight" width="100%"/>
- 
-<br/>
- 
-<img src="https://github-profile-trophy.vercel.app/?username=laukik-kande&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
- 
-</div>
-
----
-
 ## 🎓 Education
 
 ```
