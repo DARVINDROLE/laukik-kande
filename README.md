@@ -53,8 +53,8 @@ class LaukikKande:
 
 | 🏅 Achievement | 📊 Scale | 🎯 Result |
 |---|---|---|
-| 🌍 **NASA Space Apps 2025** | 13,000+ submissions worldwide | **#1 Nashik · Global Nominee** |
-| 🌍 **NASA Space Apps 2023** | 10,000+ submissions worldwide | **#1 Nashik · Global Nominee** |
+| 🌍 **NASA Space Apps 2025** | 13,000+ submissions worldwide | **#1 Global Nominee** |
+| 🌍 **NASA Space Apps 2023** | 10,000+ submissions worldwide | **#1 Global Nominee** |
 | ⚡ **Sunhacks 2025** | Asia's Largest GenAI Hackathon | **Top 20 Globally** |
 | ⚡ **Sunhacks 2024** | Asia's Largest GenAI Hackathon | **Top 10 · 3rd in AI/ML** |
 
